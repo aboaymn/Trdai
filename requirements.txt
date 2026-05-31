@@ -1,0 +1,8 @@
+python-telegram-bot>=20.0
+yfinance
+mplfinance
+pandas
+numpy
+matplotlib
+python-dotenv
+aiohttp
